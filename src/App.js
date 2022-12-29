@@ -1,5 +1,9 @@
 import React from 'react'
 
+//Se importaran todos los componentes
+import { Navbar, Brand, CTA } from './components';
+import { Footer, Blog, Possibility, Features, WhatGPT3, Header } from '/containers'; 
+
 
 
 const App = () => {
