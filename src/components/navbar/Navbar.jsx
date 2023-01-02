@@ -24,7 +24,10 @@ const Navbar = () => {
       </div>
       <div className='gpt3__navbar-sign'>
         <p>Sign In</p>
+        <button type='button'>Sign Up</button>
       </div>
+      {/* Menu de Inicio responsive movil */}
+      
     </div>
   )
 }
