@@ -37,7 +37,7 @@ a {
 }
 
 .gradient__text {
-    background:var(--gradiant-text);
+    background:var(--gradient-text);
     background-clip: text;
     -webkit-background-clop: text;
     -webkit-text-fill-color: transparent;
