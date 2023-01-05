@@ -20,12 +20,14 @@
 .gpt3__possibility-content {
     flex: 1;
     /* Esta linea de codigo font-display me ayudo a acomdar el texto para dar la ilusion de que la chica de la imagen esta tocando el texto */
-    font-display: flex;
+    display: flex;
     flex-direction: column;
     justify-content: flex-end;
     align-items: flex-start;
+    flex-direction: column;
+    margin-bottom: 25rem;
+    
 }
-
 
 .gpt3__possibility-content h4 {
     font-family: var(--font-family);
@@ -70,3 +72,4 @@
         margin-top: 2rem;
     }
 }
+
